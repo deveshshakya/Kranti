@@ -1,1 +1,1 @@
-"# Kranti" 
+Kranti
